@@ -1,5 +1,7 @@
 ### Hi there, I'm Alisson 👋
 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/alisson-rech-honorato-7906b5158/)
+
 <!--
 **alissonRH/alissonRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: ...
+
+CORES EM EXDECIMAL (?)
 -->
