@@ -1,5 +1,7 @@
 ### Hi there, I'm Alisson 👋
 
+- 🌱 I’m currently learning: JavaScript, HTML5, CSS3
+
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/alisson-rech-honorato-7906b5158/)
 
 <!--
