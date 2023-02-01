@@ -1,11 +1,8 @@
 ## Hi there, I'm Alisson 👋
 
-<div align="center">
-  <a href="https://github.com/alissonrh">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonrh&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-```ruby
+
+```python
 class Person:
     def __init__(self, name, city, interests):
         self.name = name
@@ -19,6 +16,11 @@ me = Person("Alisson", "Ciciúma", ["Beach", "Series", "Music"])
 print(me)
 ```
 
+  <div align="center">
+  <a href="https://github.com/alissonrh">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonrh&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
   <div style="display: inline_block"><br>
   <h2> :hammer_and_wrench: Stacks </h2>
 
@@ -27,6 +29,7 @@ print(me)
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" />
+
 </section>
 
 <h2> Front End </h2>
