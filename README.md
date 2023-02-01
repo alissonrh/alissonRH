@@ -5,7 +5,19 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonrh&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+```ruby
+class Person:
+    def __init__(self, name, city, interests):
+        self.name = name
+        self.city = city
+        self.interests = interests
 
+    def __str__(self):
+        return f"Name: {self.name}\nCity: {self.city}\nInterests: {', '.join(self.interests)}"
+        
+me = Person("Alisson", "Ciciúma", ["Beach", "Series", "Music"])
+print(me)
+```
 
   <div style="display: inline_block"><br>
   <h2> :hammer_and_wrench: Stacks </h2>
