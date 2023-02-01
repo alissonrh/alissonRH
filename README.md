@@ -12,7 +12,7 @@ class Person:
     def __str__(self):
         return f"Name: {self.name}\nCity: {self.city}\nInterests: {', '.join(self.interests)}"
         
-me = Person("Alisson", "Ciciúma", ["Beach", "Series", "Music"])
+me = Person("Alisson", "Criciúma", ["Beach", "Series", "Music"])
 print(me)
 ```
 
