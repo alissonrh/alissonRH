@@ -11,9 +11,17 @@ class Person:
         self.interests = interests
 
     def __str__(self):
-        return f"Name: {self.name}\nCity: {self.city}\nState: {self.state}\nInterests: {', '.join(self.interests)}"
-        
-me = Person("Alisson", "Criciúma", "Santa Catarina", ["Beach", "Series", "Music"])
+        return (
+            f"Name: {self.name}\n"
+            f"City: {self.city}\n"
+            f"State: {self.state}\n"
+            f"Interests: {', '.join(self.interests)}"
+        )
+
+
+me = Person(
+    "Alisson", "Criciúma", "Santa Catarina", ["Beach", "Series", "Music"]
+)
 print(me)
 ```
 
@@ -21,13 +29,13 @@ print(me)
   <h2> :hammer_and_wrench: Stacks </h2>
 
 <h2> Core </h2>
-<section style="display: flex; justify-content: space-between; flex-direction: row;">
-    <div style="margin-right: auto">
+<section>
+    <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-     <div style="margin-left: auto" >
+     <div>
   <a href="https://github.com/alissonrh">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonrh&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -82,6 +90,7 @@ print(me)
 
     
 </div>
+    
 
  
 
