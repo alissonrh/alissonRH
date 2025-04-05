@@ -4,25 +4,31 @@
 
 ```python
 class Person:
-    def __init__(self, name, city, state, interests):
+    def __init__(self, name: str, city: str, state: str, interests: list[str]):
         self.name = name
         self.city = city
         self.state = state
         self.interests = interests
 
-    def __str__(self):
+    def __str__(self) -> str:
+        interests_formatted = ', '.join(self.interests)
         return (
             f"Name: {self.name}\n"
             f"City: {self.city}\n"
             f"State: {self.state}\n"
-            f"Interests: {', '.join(self.interests)}"
+            f"Interests: {interests_formatted}"
         )
 
 
-me = Person(
-    "Alisson", "Criciúma", "Santa Catarina", ["Beach", "Series", "Music"]
-)
-print(me)
+if __name__ == "__main__":
+    me = Person(
+        name="Alisson",
+        city="Florianópolis",
+        state="Santa Catarina",
+        interests=["Beach", "Series", "Music"]
+    )
+    print(me)
+
 ```
 
   <div style="display: inline_block"><br>
