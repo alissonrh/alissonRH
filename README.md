@@ -6,7 +6,6 @@ Atuo no desenvolvimento e manutenção de aplicações corporativas, com atenç�
 
 Para meu projeto de pesquisa no MBA, venho me aprofundando em escalabilidade, observabilidade, proteção de APIs e estratégias de resiliência para sistemas sujeitos a picos massivos de acesso.
 
-📍 Florianópolis, SC – Brasil
 🎓 MBA em Engenharia de Software (USP)
 
 ---
@@ -45,15 +44,6 @@ Para meu projeto de pesquisa no MBA, venho me aprofundando em escalabilidade, ob
 - **Bitbucket**
 - **Trello**
 
----
-
-## 📈 GitHub Stats
-
-<div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonrh&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
 
 ## 📬 Contato
 
