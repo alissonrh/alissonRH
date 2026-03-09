@@ -1,28 +1,49 @@
-## 👋 Olá, sou Alisson Rech Honorato
+## 👋 Olá, sou Alisson Rech Honorato 
 
-Desenvolvedor de software focado em back-end, com experiência em aplicações escaláveis usando Node.js, TypeScript e PostgreSQL. Atuo também no front-end com React, Angular e Webix. Trabalho com foco em performance, clareza de código e manutenibilidade.
+Desenvolvedor Full Stack, com atuação principalmente em Node.js, TypeScript e PostgreSQL no back-end, e Angular e React no front-end. Também tenho experiência com Python e Django.
 
-📍 Florianópolis, SC – Brasil  
-🎓 MBA em Engenharia de Software (USP)  
-📌 Interesse especial em CI/CD, AWS e arquitetura de microsserviços
+Atuo no desenvolvimento e manutenção de aplicações corporativas, com atenção à clareza de código, regras de negócio, manutenibilidade e evolução contínua das soluções. Tenho interesse especial em arquitetura de software, CI/CD, observabilidade, escalabilidade e boas práticas de engenharia.
+
+Para meu projeto de pesquisa no MBA, venho me aprofundando em escalabilidade, observabilidade, proteção de APIs e estratégias de resiliência para sistemas sujeitos a picos massivos de acesso.
+
+📍 Florianópolis, SC – Brasil
+🎓 MBA em Engenharia de Software (USP)
 
 ---
 
 ## ⚒️ Principais Tecnologias
 
 ### Back-end
-- **Node.js**, **Express**, **TypeScript**, **Prisma ORM**
-- **PostgreSQL**, **MongoDB**, **Docker**
-- **JWT**, **Zod**, **Jest**, **CI/CD com Jenkins**
+- **Node.js**
+- **Express**
+- **TypeScript**
+- **Prisma ORM**
+- **Sequelize**
+- **PostgreSQL**
+- **MongoDB**
+- **Docker**
+- **JWT**
+- **Zod**
+- **Jest**
 
 ### Front-end
-- **React**, **Vite**, **Redux**, **Tailwind CSS**
-- **Angular 14+**, **RxJS**, **Webix**
+- **Angular**
+- **React**
+- **Vite**
+- **Redux**
+- **Tailwind CSS**
+- **Webix**
+- **RxJS**
 
 ### Outros
-- **Docker**, **Linux (Ubuntu)**, **Git & GitHub**
-- **Testes com Jest, Mocha, Chai**
-- **Ferramentas: Jira, Bitbucket, Trello**
+- **Git & GitHub**
+- **Linux (Ubuntu)**
+- **CI/CD**
+- **RabbitMQ**
+- **Grafana**
+- **Jira**
+- **Bitbucket**
+- **Trello**
 
 ---
 
